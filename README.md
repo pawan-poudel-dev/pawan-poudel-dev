@@ -1,34 +1,32 @@
-# PAWAN POUDEL
 
-```
-   ____                   _           ____                  _
-  |  _ \,__   __ _ _ __ | |__   __ _ / ___|_ __ __ _ _ __| |
-  | |_) |\ \ / / _` | '_ \| '_ \ / _` | |   | '__/ _` | '__| |
-  |  __/  \ V / (_| | | | | |_) | (_| | |___| | | (_| | |  |_|
-  |_|      \_/ \__,_|_| |_|_.__/ \__,_|\____|_|  \__,_|_|  (_)
-```
 
-## Bio
-<svg>
-  <!-- Insert your animated SVG code for the typing effect here -->
-</svg>
+# 👋 Hello there, I'm PAWAN POUDEL!
 
-## Tech Stack Badges
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Java+Developer;Database+Expert;Backend+Learning+Journey;Always+Learning+Something+New!&width=500)](https://git.io/typing-svg)
 
-## Projects
-- [Project 1](https://link-to-project1)
-- [Project 2](https://link-to-project2)
-- [Project 3](https://link-to-project3)
+- 💻 Passionate about Java and Backend Development
+- 🗄️ Database Design and SQL
+- 🐍 Intermediate Python Developer
+- 🌱 Continuously Learning New Technologies
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawan-poudel-dev&show_icons=true&theme=radical)
+---
 
-## Contact Information
-- Email: [poudelpawan770@gmail.com](mailto:poudelpawan770@gmail.com)
-- LinkedIn: [pawanpoudel](https://www.linkedin.com/in/pawanpoudel/)
-- GitHub: [pawan-poudel-dev](https://github.com/pawan-poudel-dev)
+## 🔧 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![GUI](https://img.shields.io/badge/GUI-Development-green)
+
+---
+
+## 📂 My Projects
+- 🏦 **Banking System** - [View Project](https://github.com/pawan-poudel-dev/Workshop-366-days-Challenge-java-pratice-praticeAndPratice/tree/4a050b3f07bf5e9ec3c6411f4fe2e1324923a156/Mini-Projects/BankingSystem)
+- 👨‍🎓 **Student Management System** - [View Project](https://github.com/pawan-poudel-dev/Workshop-366-days-Challenge-java-pratice-praticeAndPratice/tree/4a050b3f07bf5e9ec3c6411f4fe2e1324923a156/Mini-Projects/StudentManagementSystem)
+- 🔍 **Student Tracer** - [View Project](https://github.com/pawan-poudel-dev/Workshop-366-days-Challenge-java-pratice-praticeAndPratice/tree/4a050b3f07bf5e9ec3c6411f4fe2e1324923a156/Mini-Projects/StudentTRACER)
+- 📚 **New Book** - [View Project](https://github.com/pawan-poudel-dev/Workshop-366-days-Challenge-java-pratice-praticeAndPratice/tree/4a050b3f07bf5e9ec3c6411f4fe2e1324923a156/Mini-Projects/NewBook)
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawan-poudel-dev&show_icons=true&theme=radical&hide=prs,contribs&show=reviews,discussions_started,prs_merge)
+
