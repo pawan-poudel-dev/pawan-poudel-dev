@@ -2,11 +2,9 @@
 
 # 👋 Hello there, I'm PAWAN POUDEL!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Java+Developer;Database+Expert;Backend+Learning+Journey;Always+Learning+Something+New!&width=500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Java+Backend+Engineer;Always+Learning+Something+New!&width=500)](https://git.io/typing-svg)
 
-- 💻 Passionate about Java and Backend Development
-- 🗄️ Database Design and SQL
-- 🐍 Intermediate Python Developer
+- 💻 Java Backend Engineer
 - 🌱 Continuously Learning New Technologies
 
 ---
@@ -28,5 +26,15 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawan-poudel-dev&show_icons=true&theme=radical&hide=prs,contribs&show=reviews,discussions_started,prs_merge)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawan-poudel-dev&show_icons=true&theme=radical&hide=prs,contribs&show=reviews,discussions_started,prs_merged)
+
+---
+
+## 📫 How to Reach Me
+- 📧 **Email:** [poudelpawan770@gmail.com](mailto:poudelpawan770@gmail.com)
+- 🔗 **LinkedIn:** [Pawan Poudel](https://www.linkedin.com/in/pawanpoudel/)
+- 💻 **GitHub:** [pawan-poudel-dev](https://github.com/pawan-poudel-dev)
+
+---
+
+> 🚀 "Code, Learn, Build, Repeat. Always growing!"
