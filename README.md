@@ -10,7 +10,7 @@
 💻 Java Backend Engineer | 🌱 Continuous Learner | 🚀 Problem Solver
 ```
 
-I'm a passionate Java Backend Engineer dedicated to building scalable, robust applications and continuously expanding my technical expertise. I love tackling complex problems, contributing to meaningful projects, and growing as a developer every single day.
+I'm a passionate Java Backend Engineer dedicated to building scalable, robust applications and continuously expanding my technical expertise. I love tackling complex problems, contributing to meaningful projects, and growing my skills in software development.
 
 ---
 
@@ -32,10 +32,10 @@ I'm a passionate Java Backend Engineer dedicated to building scalable, robust ap
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🏦 **Banking System** | Comprehensive banking application with account management and transactions | [View](https://github.com/pawan-poudel-dev/Workshop-366-days-Challenge-java-pratice-praticeAndPratice) |
-| 👨‍🎓 **Student Management System** | Full-featured student information management platform | [View](https://github.com/pawan-poudel-dev/Workshop-366-days-Challenge-java-pratice-praticeAndPratice) |
-| 🔍 **Student Tracer** | Advanced tracking system for student progress and performance | [View](https://github.com/pawan-poudel-dev/Workshop-366-days-Challenge-java-pratice-praticeAndPratice) |
-| 📚 **New Book** | Book management and organization system | [View](https://github.com/pawan-poudel-dev/Workshop-366-days-Challenge-java-pratice-praticeAndPratice) |
+| 🏦 **Workshop 366 Days Java Challenge** | A comprehensive Java practice repository with daily coding challenges and solutions | [View](https://github.com/pawan-poudel-dev/Workshop-366-days-Challenge-java-pratice-praticeAndPratice) |
+| 🤖 **AI Subscription Management System** | Complete AI-powered subscription management system built with Java | [View](https://github.com/pawan-poudel-dev/Workshop-366-days-Challenge-java-pratice-praticeAndPratice/tree/main/Main-project/AI%20Subscription%20Management%20System) |
+| 🐍 **Python Learning Repository** | Stepping towards learning Python with projects and practice code | [View](https://github.com/pawan-poudel-dev/Python_Learning1) |
+| 📚 **UPDATED PYTHON PROJECT** | Latest Python project with advanced implementations and best practices | [View](https://github.com/pawan-poudel-dev/Python_Learning1/tree/main/Main%20project/UPDATED%20PYTHON%20PROJECT) |
 
 *Explore more projects in my [repositories](https://github.com/pawan-poudel-dev?tab=repositories)*
 
@@ -53,6 +53,7 @@ I'm a passionate Java Backend Engineer dedicated to building scalable, robust ap
 
 - 🔥 Building scalable backend systems with Java
 - 📚 Deepening my knowledge of software architecture patterns
+- 🐍 Expanding expertise in Python development
 - 🤝 Open to collaborating on interesting projects
 - 💡 Always exploring new technologies and best practices
 
